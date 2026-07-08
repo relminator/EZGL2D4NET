@@ -12,8 +12,9 @@ Description:
 	http://rel.phatcode.net/
 
 	*See the examples if this library is for you.
-![Alt text](/ezgl2d06.png?raw=true)
-![Alt text](/screen01.png?raw=true)
+<img width="640" height="480" alt="screen01" src="https://github.com/user-attachments/assets/0ba2d136-ba86-4807-9ff9-d3882ff6c899" />
+<img width="626" height="444" alt="ezgl2d06" src="https://github.com/user-attachments/assets/dacd4466-62da-4e9d-98f6-1d244330c7f5" />
+
 
 Features:
 	- Very easy to use
