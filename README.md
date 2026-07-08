@@ -29,3 +29,6 @@ Features:
 Limitations:
     -Full hardware
 	-Author is lazy
+
+![Alt text](ezgl2d06.png?raw=true)
+![Alt text](screen01.png?raw=true)
