@@ -12,6 +12,8 @@ Description:
 	http://rel.phatcode.net/
 
 	*See the examples if this library is for you.
+![Alt text](/ezgl2d06.png?raw=true)
+![Alt text](/screen01.png?raw=true)
 
 Features:
 	- Very easy to use
@@ -29,6 +31,4 @@ Features:
 Limitations:
     -Full hardware
 	-Author is lazy
-
-![Alt text](/ezgl2d06.png?raw=true)
-![Alt text](/screen01.png?raw=true)
+	
